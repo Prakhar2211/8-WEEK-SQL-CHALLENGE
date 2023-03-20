@@ -7,10 +7,11 @@
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Case Study Questions](#case-study-questions)
 - Solution
-  - [Data Cleaning and Transformation](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Data%20Cleaning%20and%20Transformation.md)
-  - [A. Pizza Metrics](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md)
-  - [B. Runner and Customer Experience](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md)
-  - [Complete SQL Syntax](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner/SQL%20Syntax)
+  - [Data Cleaning and Transformation](https://github.com/Prakhar2211/8-WEEK-SQL-CHALLENGE/blob/main/Case%20Study%20%232:%20Pizza%20Runner/Data%20Cleaning%20and%20Transformation.md)
+  - [A. Pizza Metrics](https://github.com/Prakhar2211/8-WEEK-SQL-CHALLENGE/blob/main/Case%20Study%20%232:%20Pizza%20Runner/A.%20Pizza%20Metrics.md)
+  - [B. Runner and Customer Experience](https://github.com/Prakhar2211/8-WEEK-SQL-CHALLENGE/blob/main/Case%20Study%20%232:%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md)
+  - [C. Ingredient Optimization](https://github.com/Prakhar2211/8-WEEK-SQL-CHALLENGE/blob/main/Case%20Study%20%232:%20Pizza%20Runner/C.%20Ingredient%20Optimisation.md)
+  - [Complete SQL Syntax]([https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner/SQL%20Syntax](https://github.com/Prakhar2211/8-WEEK-SQL-CHALLENGE/blob/main/Case%20Study%20%232:%20Pizza%20Runner/Pizza%20Runner.sql))
 
 ***
 
@@ -27,8 +28,6 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ### A. Pizza Metrics
 
-View my solution [here](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md).
-
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
 3. How many successful orders were delivered by each runner?
@@ -41,8 +40,6 @@ View my solution [here](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob
 10. What was the volume of orders for each day of the week?
 
 ### B. Runner and Customer Experience
-
-View my solution [here](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md).
 
 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
 2. What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
