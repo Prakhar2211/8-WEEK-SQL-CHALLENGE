@@ -11,7 +11,7 @@
   - [A. Pizza Metrics](https://github.com/Prakhar2211/8-WEEK-SQL-CHALLENGE/blob/main/Case%20Study%20%232:%20Pizza%20Runner/A.%20Pizza%20Metrics.md)
   - [B. Runner and Customer Experience](https://github.com/Prakhar2211/8-WEEK-SQL-CHALLENGE/blob/main/Case%20Study%20%232:%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md)
   - [C. Ingredient Optimization](https://github.com/Prakhar2211/8-WEEK-SQL-CHALLENGE/blob/main/Case%20Study%20%232:%20Pizza%20Runner/C.%20Ingredient%20Optimisation.md)
-  - [Complete SQL Syntax]([https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner/SQL%20Syntax](https://github.com/Prakhar2211/8-WEEK-SQL-CHALLENGE/blob/main/Case%20Study%20%232:%20Pizza%20Runner/Pizza%20Runner.sql))
+  - [Complete SQL Syntax](https://github.com/Prakhar2211/8-WEEK-SQL-CHALLENGE/blob/main/Case%20Study%20%232:%20Pizza%20Runner/Pizza%20Runner.sql)
 
 ***
 
