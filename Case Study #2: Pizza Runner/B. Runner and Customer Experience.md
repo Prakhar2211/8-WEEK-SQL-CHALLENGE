@@ -180,3 +180,4 @@ GROUP BY runner_id;
 _(It’s not right to attribute successful delivery to runners as order cancellations are out of the runner’s control.)_
 
 ***
+***Click [here](https://github.com/Prakhar2211/8-WEEK-SQL-CHALLENGE/blob/main/Case%20Study%20%232:%20Pizza%20Runner/C.%20Ingredient%20Optimisation.md) for solution for C. Ingredient Optimisation!***
