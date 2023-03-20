@@ -6,8 +6,8 @@
 - [Business Task](#business-task)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Case Study Questions](#case-study-questions)
-- [Solution on Github](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md)
-- 
+- [Solution on Github](https://github.com/Prakhar2211/8-WEEK-SQL-CHALLENGE/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Solution.md)
+
 
 ***
 
