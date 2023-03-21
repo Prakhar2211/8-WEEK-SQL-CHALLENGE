@@ -19,7 +19,6 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ![image](https://user-images.githubusercontent.com/81607668/127271130-dca9aedd-4ca9-4ed8-b6ec-1e1920dca4a8.png)
 
-### Insights and Findings
 
 ***
 
@@ -36,7 +35,6 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ![image](https://user-images.githubusercontent.com/81607668/127271531-0b4da8c7-8b24-4a14-9093-0795c4fa037e.png)
 
-### Insights and Findings
   
 ***
 
