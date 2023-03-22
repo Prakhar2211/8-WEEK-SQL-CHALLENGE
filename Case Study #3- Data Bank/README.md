@@ -5,11 +5,12 @@
 ## 📚 Table of Contents
 - [Business Task](#business-task)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
+- [Schema SQL](https://github.com/Prakhar2211/SQL-CASE-STUDIES/blob/main/Case%20Study%20%233-%20Data%20Bank/Schema.sql)
 - [Case Study Questions](#case-study-questions)
 - Solution
-  - [A. Customer Nodes Exploration](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/A.%20Customer%20Nodes%20Exploration.md)
-  - [B. Customer Transactions](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/B.%20Customer%20Transactions.md)
-  - [Complete SQL Syntax](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/SQL%20Syntax/Complete%20SQL%20solution.sql)
+  - [A. Customer Nodes Exploration](https://github.com/Prakhar2211/SQL-CASE-STUDIES/blob/main/Case%20Study%20%233-%20Data%20Bank/A.%20Customer%20Nodes%20Exploration.md)
+  - [B. Customer Transactions](https://github.com/Prakhar2211/SQL-CASE-STUDIES/blob/main/Case%20Study%20%233-%20Data%20Bank/B.%20Customer%20Transactions.md)
+  - [Complete SQL Syntax](https://github.com/Prakhar2211/SQL-CASE-STUDIES/blob/main/Case%20Study%20%233-%20Data%20Bank/Complete%20SQL%20Solution.sql)
 
 ***
 
@@ -50,7 +51,7 @@ This table stores all customer deposits, withdrawals and purchases made using th
 
 ### A. Customer Nodes Exploration
 
-View my solution [here](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/A.%20Customer%20Nodes%20Exploration.md).
+View my solution [here](https://github.com/Prakhar2211/SQL-CASE-STUDIES/blob/main/Case%20Study%20%233-%20Data%20Bank/A.%20Customer%20Nodes%20Exploration.md).
 
 1. How many unique nodes are there on the Data Bank system?
 2. What is the number of nodes per region?
@@ -60,7 +61,7 @@ View my solution [here](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob
 
 ### B. Customer Transactions
 
-View my solution [here](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank/B.%20Customer%20Transactions.md).
+View my solution [here](https://github.com/Prakhar2211/SQL-CASE-STUDIES/blob/main/Case%20Study%20%233-%20Data%20Bank/B.%20Customer%20Transactions.md).
   
 1. What is the unique count and total amount for each transaction type?
 2. What is the average total historical deposit counts and amounts for all customers?
@@ -75,4 +76,3 @@ View my solution [here](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob
   
 ***
 
-Do give me a 🌟 if you like what you're reading. Thank you! 🙆🏻‍♀️
