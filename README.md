@@ -1,6 +1,6 @@
-# 🍔 8 Week SQL Challenge
+# 🍔 SQL CASE STUDIES
 
-This repository contains the solution for the 8 case studies in **[8WeekSQLChallenge](https://8weeksqlchallenge.com)**!
+This repository contains the solution for the case studies in **[8WeekSQLChallenge](https://8weeksqlchallenge.com)**!
 
 ## 📚 Table of Contents
 - [Case Study #1: Danny's Diner](#case-study-1-dannys-diner)
