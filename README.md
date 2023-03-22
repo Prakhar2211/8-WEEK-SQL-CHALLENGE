@@ -5,6 +5,8 @@ This repository contains the solution for the case studies in **[8WeekSQLChallen
 ## 📚 Table of Contents
 - [Case Study #1: Danny's Diner](#case-study-1-dannys-diner)
 - [Case Study #2: Pizza Runner](#case-study-2-pizza-runner)
+- [Case Study #3: Data Bank](#case-study-3-data-bank)
+
 
 ***
 
