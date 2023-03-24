@@ -1,6 +1,5 @@
 ## Case Study #3: Data Bank
 
-<img src="https://user-images.githubusercontent.com/81607668/130343294-a8dcceb7-b6c3-4006-8ad2-fab2f6905258.png" alt="Image" width="500" height="520">
 
 ## 📚 Table of Contents
 - [Business Task](#business-task)
